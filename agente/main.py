@@ -12,7 +12,7 @@ from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_core.chat_history import BaseChatMessageHistory
 from langchain_community.chat_message_histories import ChatMessageHistory
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "
 #print(os.environ.get("OPENAI_API_KEY")) #key should now be available
 
 
